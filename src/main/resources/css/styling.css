@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "Roboto";
+    font-weight: 400;
+    src: url("../fonts/Roboto/Roboto-Regular.ttf") format("truetype");
+}
+
+.root {
+    -fx-font-family: "Roboto";
+}
